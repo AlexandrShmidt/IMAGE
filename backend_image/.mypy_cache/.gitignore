@@ -1,0 +1,23 @@
+# Виртуальное окружение Python (Windows)
+venv/
+.venv/
+env/
+ENV/
+Scripts/
+activate.bat
+deactivate.bat
+pip-selfcheck.json
+pyvenv.cfg
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
