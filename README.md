@@ -7,7 +7,7 @@
 
 🚀 Запуск проекта.
 1. Клонируйте репозиторий GIT командой:
-git clone git@github.com:AlexandrShmidt/push_images.git
+git clone git@github.com:AlexandrShmidt/IMAGE.git
 2. Перейдите  в директорию проекта в папку бэкенда:
 cd ... push_images/backend_image
 
